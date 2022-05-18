@@ -1,0 +1,23 @@
+{
+  "name": "hello-redis-pub-sub-x-nodejs",
+  "version": "1.0.0",
+  "description": "Redis Pub/Sub x Node.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puuga/hello-redis-pub-sub-x-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puuga/hello-redis-pub-sub-x-nodejs/issues"
+  },
+  "homepage": "https://github.com/puuga/hello-redis-pub-sub-x-nodejs#readme",
+  "dependencies": {
+    "redis": "^4.1.0"
+  }
+}
